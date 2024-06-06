@@ -21,7 +21,7 @@ const products: Product[] = [
     href: "#",
     imageSrc: "/assets/mentor/boy1.svg",
     imageAlt: "Front of men's Basic Tee in black.",
-    color: "Shoo Thar Mein",
+    color: "Akash kumar",
   },
   {
     id: 2,
@@ -45,7 +45,7 @@ const products: Product[] = [
     href: "#",
     imageSrc: "/assets/mentor/boy4.svg",
     imageAlt: "Front of men's Basic Tee in black.",
-    color: "Andrew Williams",
+    color: "Aditya Prasannan",
   },
   {
     id: 5,

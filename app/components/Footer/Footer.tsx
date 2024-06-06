@@ -37,7 +37,7 @@ const footer = () => {
             <img src={"/assets/logo/Logo2.svg"} alt="logo" className="pb-4" />
             <h3 className="mb-4 text-lg font-medium leading-9 text-white lg:mb-20">
               {" "}
-              Level up your skills, and get dream <br /> job with passion.{" "}
+              Having new skills can be sometimes helpfull <br /> to get a job.{" "}
             </h3>
             <div className="flex gap-4">
               <Link href="/">
@@ -124,10 +124,10 @@ const footer = () => {
 
       <div className="px-4 pb-24">
         <h3 className="text-offwhite text-center">
-          @2023 - All Rights Reserved by{" "}
+          @2024 - All Rights Reserved by{" "}
           <Link href="https://adminmart.com/" target="_blank">
             {" "}
-            Anshu Aditya
+            Learn-Easy
           </Link>
         </h3>
       </div>
