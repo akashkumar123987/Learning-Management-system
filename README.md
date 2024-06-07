@@ -46,4 +46,4 @@ Learn-Easy revolutionizes education tech with personalized course suggestions dr
 - **Frontend:** Next.js 14
 - **Backend:** Prisma, MySQL
 - **Payment Integration:** Stripe
-- **course recommendation:**Content based filtering
+- **course recommendation:** Content based filtering
